@@ -1,7 +1,7 @@
 AWS Transit Gateway scenario with Terraform
 ===========================================
 
-This project gives an example of the usage of the recently (november 2018) announced [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/) product. That component provides a way to interconnect multiple VPCs in a hub-spoke topology.
+This project gives an example of the usage of the recently  [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/) product. That component provides a way to interconnect multiple VPCs in a hub-spoke topology.
 
 The Transit Gateway is meant to superseed the more complex and expensive Transit VPC technology. This is a didactic example to showcase how a Transit VPC should be configured to achieve a non-trivial (full mesh) scenario. I hope it can be helpful.
 
