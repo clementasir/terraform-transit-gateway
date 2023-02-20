@@ -31,7 +31,7 @@ Prerequisites
 
 Usage
 -----
-* Use aws configure to enter ID and  key 
+* Edit the access key , secret key and the key name in variable.tf
 
 * Deploy the setup with:
 ```sh
